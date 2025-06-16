@@ -146,3 +146,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Gemini AI for providing the AI capabilities
 - React and Node.js communities for their excellent documentation
 - All contributors who have helped improve this project 
+
+
+
+![test 1](https://github.com/user-attachments/assets/ce8734b6-a02b-44d7-b67f-340689e75f8a)
+![test 2](https://github.com/user-attachments/assets/496aee8d-e6c5-482b-a325-539fa3c58d06)
+![test 3](https://github.com/user-attachments/assets/47e260b2-4d31-47d9-9a6a-660f2874aa10)
+
+
